@@ -7,3 +7,9 @@ __pycache__/
 env/
 venv/
 
+# notebook
+.ipynb_checkpoints
+
+# app specific ignores
+auth.yaml
+*.yaml
