@@ -14,5 +14,5 @@ The notebook in this repo extracts books from the NY Times Bestseller list that 
 **Usage**
 
 ---
-**License**
+**License**<br>
 Apache Software License 2.0
