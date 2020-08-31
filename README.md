@@ -26,7 +26,7 @@ The notebook in this repo extracts books from the NY Times Bestseller list that 
 1. run `jupyter notebook` on the console and open `lindy_books_list.ipynb`.
 2. if you want to load just a few batches of data (each batch contains 20 books) then
    set `n_batches` in the function call `get_ny_times_data('auth.yaml', n_batches=None)`.
-   If nothing es set, then all the data is loaded.
+   If nothing is set, then all the data is loaded.
 3. Click on `Cell` and `Run All`.
 4. Sit back and wait for a few hours until results are displayed.
 5. Modify the notebook to explore books regarding different dimensions.
